@@ -1,5 +1,6 @@
 # EE-CE-CS-366-366-380-Introduction-to-Robotics
 This GitHub repository contains the homework assignments completed as part of the course EE-CE-CS-366-366-380: Introduction to Robotics. The assignments include four different blocks: Vision Block, Forward Kinematics Block, Inverse Kinematics Block, Control Block, and Trajectory Block. Each block is a crucial aspect of robotics, and the assignments aim to help students understand and implement them in practical scenarios.
+![alt text](ROBOTICS_MAP.png)
 
 The Vision Block assignment focuses on understanding computer vision techniques and how they can be applied to robotics. Students will learn about camera calibration, image processing, and object recognition techniques.
 
